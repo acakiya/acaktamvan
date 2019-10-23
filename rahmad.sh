@@ -93,11 +93,11 @@ sleep 1
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR    :  RAHMAD  "$i"                  Ôûê"
+echo $i"Ôûê"$pu"  AUTHOR    :  ACAK IYA  "$i"                  Ôûê"
 echo $i"Ôûê"$pu"  WhatsApp  :  0888099xxxxx"$i"              Ôûê"
-echo $i"Ôûê"$pu"  GMAIL     :  kucingkaget22@gmail.com"$i"   Ôûê"
-echo $i"Ôûê"$pu"  YOUTUBE   :  YouTube RMD"$i"               Ôûê"
-echo $i"Ôûê"$pu"  INSTAGRAM :  @19_mamadee"$i"               Ôûê"
+echo $i"Ôûê"$pu"  GMAIL     :  acakbukan@gmail.com"$i"   Ôûê"
+echo $i"Ôûê"$pu"  YOUTUBE   :  YouTube Acak Iya"$i"               Ôûê"
+echo $i"Ôûê"$pu"  INSTAGRAM :  @acak01"$i"               Ôûê"
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"MeNu BRUTEPORCE NeWS:"
@@ -265,12 +265,12 @@ echo $i"Silahkan di pakai semoga bermanfaat Buat anda"
 sleep 2
 echo $pur"Bila Ada Kesalahan Anda Bisa Nanya Melalui Via"
 sleep 2
-echo $ku"Facebook :"$i" Rahmad Ramadhani"
-echo $ku"YouTube  :"$i" YouTube RMD"
+echo $ku"Facebook :"$i" acak iya"
+echo $ku"YouTube  :"$i" YouTube Acak Iya"
 echo $ku"WhatsApp :"$i" 0887882xxxx"
 sleep 2
 echo $pur"Terima kasih Yang Sudah Support dengan Tools ini"
 sleep 2
-echo $pur"SUBSCRIBE MY CHANNEL { YOUTUBE RMD }"
+echo $pur"SUBSCRIBE MY CHANNEL { YOUTUBE Acak Iya }"
 exit
 fi
